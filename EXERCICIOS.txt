@@ -1,0 +1,16 @@
+1. BIBLIOTECA 
+Fortes: Usuário, Livro, Revista e Jornal.
+Fraca: Empréstimo.
+
+2. RESTAURANTE
+Fortes: Cliente, Chef e Prato.
+Fraca: Pedido.
+
+3. OFICINA
+Fortes: Proprietário e Veículo.
+Fraca: Ordem de Serviço.
+
+4. MERCADO
+Fortes: Fornecedor e Produto.
+Fraca: Desconto.
+
